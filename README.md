@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Tarun</h1>
 <h3 align="center">I'm a junior at Mass Academy of Math & Science @ WPI</h3>
 
-<div align="center">
+
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]([https://instagram.com/gkassym/](https://www.instagram.com/taruneswar6/))
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tarun-eswar-b10150233/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](#)
-</div>
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarune28&label=Profile%20views&color=0e75b6&style=flat" alt="tarune28" /> </p> -->
 
