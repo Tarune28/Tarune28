@@ -1,7 +1,7 @@
 <img src='banner.png' alt="banner"></img>
 
 <h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">I'm a junior at Mass Academy of Math & Science @ WPI</h3>
+<h3 align="center">I'm a junior at the Mass Academy of Math & Science @ WPI</h3>
 
 
 
