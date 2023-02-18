@@ -1,12 +1,12 @@
 <img src='banner.png' alt="banner"></img>
 
 <h1 align="center">Hey there 👋</h1>
-<h4 align="center">My name is Tarun Eswar and I'm a junior at the Mass Academy of Math & Science @ WPI. I'm particularly interested in full stack development with React.js, node.js, and NoSQL databases with the intent on expanding more into SQL. I'm additionally interested in machine learning and AI.</h4>
+<h4 align="center">My name is Tarun Eswar and I'm a junior at the Mass Academy of Math & Science @ WPI. I'm particularly interested in full stack development with React.js, node.js, and NoSQL/SQL databases. I'm additionally interested in machine learning and AI, especially with acquiring new deep learning skills.</h4>
 
 
 
 <p align="center">
-<a href="https://linkedin.com/in/tarun-eswar-b10150233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-eswar-b10150233" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/tarun-eswar-b10150233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-eswar-b10150233" height="30" width="40" /></a> -->
 </p>
 
 
@@ -19,4 +19,4 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarune28&label=Profile%20views&color=0e75b6&style=flat" alt="tarune28" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarune28&label=Profile%20views&color=0e75b6&style=flat" alt="tarune28" /> </p> -->
