@@ -1,7 +1,7 @@
 <img src='banner.png' alt="banner"></img>
 
 <h1 align="center"></h1>
-<h4>Hey there, my name is Tarun Eswar and I'm a junior at the Mass Academy of Math & Science @ WPI. I'm particularly interested in full stack development with React.js, node.js, and NoSQL/SQL databases. I'm additionally interested in machine learning and AI, especially with acquiring new deep learning skills.</h4>
+Hey there, my name is Tarun Eswar and I'm a junior at the Mass Academy of Math & Science @ WPI. I'm particularly interested in full stack development with React.js, node.js, and NoSQL/SQL databases. I'm additionally interested in machine learning and AI, especially with acquiring new deep learning skills.
 
 
 
