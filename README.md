@@ -1,7 +1,7 @@
 <img src='banner.png' alt="banner"></img>
 
 <h1 align="center"></h1>
-Hey there, my name is Tarun Eswar and I'm a student. I'm particularly interested in full stack development with React.js, node.js, and NoSQL/SQL databases. I'm additionally interested in machine learning and AI, especially with acquiring new deep learning skills.
+Hey there, my name is Tarun Eswar and I'm matriculating to Washu in STL I'm particularly interested in full-stack development with React.js, node.js, and NoSQL/SQL databases. I'm additionally interested in machine learning and AI, especially with acquiring new deep learning skills. Most of my project experience is in the full-stack field but I'm looking to expand!
 
 
 
